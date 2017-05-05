@@ -25,13 +25,13 @@
 
 ## slack group
 私たちにはslack groupもあります！世界中のプログラマー達と、Boostnoteについてディスカッションをしましょう！ <br>
-[こちらから](https://boostnote-group.slack.com/shared_invite/MTU5OTMwNjMyNjQxLTE0OTA2NzkyNzktYzkzYmZhYjk0Nw)
+[こちらから](https://join.slack.com/boostnote-group/shared_invite/MTc2NTc5MTkyMjc3LTE0OTM0NDI5MzgtNzdkNjZjMzJhNA)
 
 ## More Information
 * Website: http://boostnote.io/
 * Roadmap(upcoming features and bug fixes): https://github.com/BoostIO/Boostnote/wiki/List-of-the-requested-features
 * Boostnote Shop(Products are shipped to all over the world :+1:): https://boostnote.paintory.com/
-* Donation: [Patreon](https://www.patreon.com/boostnote)
+* Donation: [Bountysource](https://salt.bountysource.com/teams/boostnote)
 * Development: https://github.com/BoostIO/Boostnote/blob/master/docs/build.md
 * Copyright (C) 2017 Maisin&Co.
 
